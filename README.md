@@ -8,7 +8,7 @@ To write a python program to perform random classification.
 
 ## Related Theoritical Concept:
 ~~~
-1.matplotlib.pyplot as plt-used to represent the given data set in a 
+1.Import matplotlib.pyplot as plt-used to represent the given data set in a 
 graphical manner. 
 2.sklearn-used for statistical modelling and build machine learning models. 
 3.datasets-used to introduce many small datasets and fetch large data sets. 
