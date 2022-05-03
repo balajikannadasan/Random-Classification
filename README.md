@@ -1,5 +1,5 @@
 ### EX NO: 01
-### DATE
+### DATE:
 # <p align="center"> RANDOM CLASSIFICATION </p>
 
 ## AIM:
