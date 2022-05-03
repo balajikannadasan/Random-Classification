@@ -25,11 +25,11 @@ Import necessary libraries from packages.
 Assign x,y values from the given dataset by sklearn.
 ## Step 3:
 Plot the x and y values in the chart using mathplotlib.pyplot
-# Step 4:
+## Step 4:
 Label the values of x and y axis.
-# Step 5:
+## Step 5:
 Add title to the graph .
-# Step 6:
+## Step 6:
 Save the file and execute the program.
 
 # PROGRAM :
