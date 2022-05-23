@@ -25,6 +25,7 @@ Import necessary libraries from packages.
 Assign x,y values from the given dataset by sklearn.
 ## Step 3:
 Plot the x and y values in the chart using mathplotlib.pyplot
+<br></br>
 ## Step 4:
 Label the values of x and y axis.
 ## Step 5:
@@ -50,7 +51,13 @@ plt.xlabel("feature 1")
 plt.ylabel("feature 2")
 plt.title('Random Classification Data with 2 classes')
 ```
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Output:
 ![Ex no 1.Random Classifier plot](123.png)
 
